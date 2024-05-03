@@ -43,7 +43,7 @@ export default function Cars() {
                     <Text className="text-white text-center text-2xl font-bold uppercase">Gabriel Fernando Seffrin</Text>
                 </View>
                 <View className="mt-24">
-                    <TouchableOpacity onPress={() => Linking.openURL('https://github.com/eliezerbuczak/garage42')}>
+                    <TouchableOpacity onPress={() => Linking.openURL('https://github.com/gabrielseffrin/carsANDcars')}>
                         <Text className="text-red-600">Projeto Github</Text>
                     </TouchableOpacity>
                 </View>
